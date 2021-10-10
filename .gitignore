@@ -1,0 +1,6 @@
+*~
+*.o
+fast-pali
+slow-pali
+CMakeLists.txt
+cmake-build-debug
