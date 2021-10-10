@@ -33,7 +33,7 @@ Instead of storing really large files in your directory, and risking
 running out of quota, you can use this `dup.py` to generate large
 input to your program.
 
-`dup2.py` is a simple python program that accepts a single command
+`dup.py` is a simple python program that accepts a single command
 line argument `N`, which indicates the number of bytes that the script
 will generate on standard output. `dup.py` reads in data from stdin,
 byte by byte, and outputs the data to stdout. It always outputs N
