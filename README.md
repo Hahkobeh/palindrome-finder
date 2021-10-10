@@ -1,11 +1,11 @@
 # To run
-
+```
 g++ -O2 -Wall fast-pali.cpp -o fast-pali
-
+```
 then
-
+```
 time ./fast-pali < t5.txt
-
+```
 Below is the assignment
 
 # Files for CPSC457 Assignment 1 - Fall 2021
