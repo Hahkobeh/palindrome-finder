@@ -1,4 +1,4 @@
-#To run
+# To run
 
 g++ -O2 -Wall fast-pali.cpp -o fast-pali
 
