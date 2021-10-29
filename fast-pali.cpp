@@ -1,7 +1,7 @@
 /****************************************
  *The code below is copied and modified from
  *https://gitlab.com/cpsc457/public/longest-int-my-getchar
- *Written by Pavol Federl (2020)
+ *Which was written by Pavol Federl (2020)
  *
  *
  *
